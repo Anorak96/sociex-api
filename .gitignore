@@ -4,8 +4,8 @@
 *.pyc
 __pycache__
 db.sqlite3
-media
-migrations
+media/
+migrations/
 
 # Distribution / packaging 
 .Python build/ 
@@ -64,7 +64,6 @@ ENV/
 sociex-api/
 env.bak/ 
 venv.bak/ 
-nuxenv/
 
 # mkdocs documentation 
 /site 
